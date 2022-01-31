@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nasser, My friends call Nass!
 - 👀 I’m interested in webdev, business development, music, cooking and well-being
-- 🌱 I’m ramping up on React / react Native 
+- 🌱 I’m ramping up on React Native 
 - 💞️ I’m looking to collaborate on web app and SPA. Tbh I have a weak spot for productivity and personal development app (see my project "Bofoomi").
 - 📫 How to reach me : nassermassadimi@gmail.com
 
