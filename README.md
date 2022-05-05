@@ -5,6 +5,7 @@
 - 📫 How to reach me : nassermassadimi@gmail.com
 
 My go-to STACK : MERN (MongoDB - Express - React - Node.JS)
-My other STACKS :
-- MEN with Template Engine (EJS most of the time)
-- PHP + MySQL (if you really insist, PHP is killing me with all these "echo")
+
+Feel free to check out my latest projects : 
+IMPOSSIBLE PANTRY : https://impossible-pantry.web.app/
+BOFOOMI : https://bofoomi.herokuapp.com/
