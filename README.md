@@ -6,6 +6,3 @@
 
 My go-to STACK : MERN (MongoDB - Express - React - Node.JS)
 
-Feel free to check out my latest projects : 
-IMPOSSIBLE PANTRY : https://impossible-pantry.web.app/
-BOFOOMI : https://bofoomi.herokuapp.com/
